@@ -1,14 +1,13 @@
 {
-  "name": "go-getting-started",
+  "name": "go-ERP",
   "description": "Go Getting Started Example App",
   "keywords": [
-    "getting-started",
     "go",
-    "sample",
-    "example"
+    "ERP",
+    "demo"
   ],
   "image": "heroku/go:1.6",
-  "mount_dir": "src/github.com/heroku/go-getting-started",
-  "website": "http://github.com/heroku/go-getting-started",
-  "repository": "http://github.com/heroku/go-getting-started"
+  "mount_dir": "src/github.com/heroku/goerp",
+  "website": "https://github.com/chavp/go-getting-started",
+  "repository": "https://github.com/chavp/go-getting-started.git"
 }
